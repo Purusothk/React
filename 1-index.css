@@ -1,0 +1,22 @@
+*{
+    justify-content: center;
+}
+
+
+.jss{
+    /* background-color: black; */
+    color: rgb(174, 88, 88);
+    position: relative;
+    left: 50px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    box-shadow: 10px 20px 3px black;
+}
+.foot{
+    background-color: rgb(222, 185, 129);
+    box-shadow: 10px;
+}
